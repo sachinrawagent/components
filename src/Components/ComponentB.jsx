@@ -8,7 +8,7 @@ function ComponentB() {
     }
   return (
     <div>
-      
+      <label>Write Something</label>
         <input type="text" onChange={handlechange}  className="name" />
         
         
